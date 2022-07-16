@@ -1,0 +1,30 @@
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: Start test public:1:is_present.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: Test public:1:is_present is successful.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: End test public:1:is_present.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: Start test public:5:ap.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: Test public:5:ap is successful.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: End test public:5:ap.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: Start test public:6:insert_and_max.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Test public:6:insert_and_max exited with an error.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Failure("unimplemented") in test public:6:insert_and_max.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Called from Dune__exe__Public.public_int_tree_insert_and_max in file "test/public/public.ml", line 113, characters 27-57
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: 
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: End test public:6:insert_and_max.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: Start test public:9:tree_map_put_and_get.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Test public:9:tree_map_put_and_get exited with an error.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Failure("unimplemented") in test public:9:tree_map_put_and_get.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Called from Dune__exe__Public.public_tree_map_put_and_get in file "test/public/public.ml", line 123, characters 11-27
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: 
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: End test public:9:tree_map_put_and_get.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: Start test public:10:var.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Test public:10:var exited with an error.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Failure("unimplemented") in test public:10:var.
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Raised at Stdlib.failwith in file "stdlib.ml", line 29, characters 17-33
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Called from Dune__exe__Public.public_var in file "test/public/public.ml", line 133, characters 10-32
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 E: 
+2022-03-06T22:35:50+00:00 Anas-MacBook-Pro.local#02 I: End test public:10:var.
